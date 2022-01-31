@@ -8,3 +8,4 @@
 3. #### [An Introduction to Variance, Covariance & Correlation](https://www.alchemer.com/resources/blog/variance-covariance-correlation/)
 4. #### [Types of Probability Distributions Every Data Science Expert Should know](https://www.knowledgehut.com/blog/data-science/probability-distribution-types) 
 5. #### [Clearly explained: Pearson V/S Spearman Correlation Coefficient](https://towardsdatascience.com/clearly-explained-pearson-v-s-spearman-correlation-coefficient-ada2f473b8)
+6. #### [Detecting and Treating Outliers | Treating the odd one out!](https://www.analyticsvidhya.com/blog/2021/05/detecting-and-treating-outliers-treating-the-odd-one-out/)
