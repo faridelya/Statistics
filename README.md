@@ -10,3 +10,6 @@
 5. #### [Clearly explained: Pearson V/S Spearman Correlation Coefficient](https://towardsdatascience.com/clearly-explained-pearson-v-s-spearman-correlation-coefficient-ada2f473b8)
 6. #### [Detecting and Treating Outliers | Treating the odd one out!](https://www.analyticsvidhya.com/blog/2021/05/detecting-and-treating-outliers-treating-the-odd-one-out/)
 7. #### [All the Annoying Assumptions](https://towardsdatascience.com/all-the-annoying-assumptions-31b55df246c3)
+8. #### [Regression Model Assumptions](https://www.jmp.com/en_us/statistics-knowledge-portal/what-is-regression/simple-linear-regression-assumptions.html)
+9. #### [Back to Basics: Assumptions of Common Machine Learning Models](https://towardsdatascience.com/back-to-basics-assumptions-of-common-machine-learning-models-e43c02325535)
+10. #### [Going Deeper into Regression Analysis with Assumptions, Plots & Solutions](https://www.analyticsvidhya.com/blog/2016/07/deeper-regression-analysis-assumptions-plots-solutions/)
