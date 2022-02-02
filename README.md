@@ -14,5 +14,5 @@
 9. #### [Back to Basics: Assumptions of Common Machine Learning Models](https://towardsdatascience.com/back-to-basics-assumptions-of-common-machine-learning-models-e43c02325535)
 10. #### [Going Deeper into Regression Analysis with Assumptions, Plots & Solutions](https://www.analyticsvidhya.com/blog/2016/07/deeper-regression-analysis-assumptions-plots-solutions/)
 11. #### [Machine Learning Models – it’s all about assumptions, Pro & cons](https://www.kdnuggets.com/2021/02/machine-learning-assumptions.html)
-12. ## Crucially, statistical significance does not necessarily imply practical significance
+### Crucially, statistical significance does not necessarily imply practical significance
 13. #### [What is a P-value?](http://www.biosci.global/customer-stories-en/what-is-a-p-value/)
