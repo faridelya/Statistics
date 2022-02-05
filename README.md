@@ -16,3 +16,4 @@
 11. #### [Machine Learning Models – it’s all about assumptions, Pro & cons](https://www.kdnuggets.com/2021/02/machine-learning-assumptions.html)
 ### Crucially, statistical significance does not necessarily imply practical significance
 13. #### [What is a P-value?](http://www.biosci.global/customer-stories-en/what-is-a-p-value/)
+14. #### [7 A/B Testing Questions and Answers in Data Science Interviews](https://towardsdatascience.com/7-a-b-testing-questions-and-answers-in-data-science-interviews-eee6428a8b63)
