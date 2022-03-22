@@ -17,3 +17,4 @@
 ### Crucially, statistical significance does not necessarily imply practical significance
 13. #### [What is a P-value?](http://www.biosci.global/customer-stories-en/what-is-a-p-value/)
 14. #### [7 A/B Testing Questions and Answers in Data Science Interviews](https://towardsdatascience.com/7-a-b-testing-questions-and-answers-in-data-science-interviews-eee6428a8b63)
+15. ####[very Good Explained The Confusion Matrix, Accuracy, Precision, and Recall](https://blog.paperspace.com/deep-learning-metrics-precision-recall-accuracy/)
